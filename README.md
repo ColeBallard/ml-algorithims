@@ -1,4 +1,4 @@
-# ml-algorithims
+# Machine Learning Algorithims
 
 ## **Description**
 
@@ -12,13 +12,12 @@ Data modeling project which centers around general implementation of two [scikit
 git clone https://github.com/ColeBallard/ml-algorithims
 ```
 
-2. Install the latest version of python.
-[Downloads](https://www.python.org/downloads/)
+2. Install the latest version of python. [Downloads.](https://www.python.org/downloads/)
 
-3. Install Anaconda.
-[Distribution](https://www.anaconda.com/products/distribution)
+3. Install Anaconda. [Distribution.](https://www.anaconda.com/products/distribution)
 
 4. Install dependencies.
+
 ```shell
 pip install pandas
 pip install matplotlib
@@ -26,16 +25,19 @@ pip install -U scikit-learn
 ```
 
 5. Start the Jupyter Notebook server.
+
 ```shell
 jupyter notebook
 ```
 
 6. Run the dbscan notebook.
+
 ```shell
 jupyter run dbscan-example.ipynb
 ```
 
 7. Run the KNN notebook.
+
 ```shell
 jupyter run KNN-implementation.ipynb
 ```
